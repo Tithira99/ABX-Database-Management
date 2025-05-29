@@ -1,4 +1,4 @@
-This is a Database Management System for a company using C#.
+This is a Database Management System for ABC company developed using C#.
 
 This code was executed using Visual Studio.
 
