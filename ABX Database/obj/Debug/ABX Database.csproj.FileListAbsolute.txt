@@ -1,0 +1,36 @@
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\bin\Debug\ABX Database.exe.config
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\bin\Debug\ABX Database.exe
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\bin\Debug\ABX Database.pdb
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.csprojAssemblyReference.cache
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Form1.resources
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Properties.Resources.resources
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.csproj.GenerateResource.cache
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.csproj.CoreCompileInputs.cache
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.exe
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.pdb
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Customer.resources
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Product.resources
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Employee.resources
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.GRN_details.resources
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Order_Details.resources
+C:\Users\Tithira\Desktop\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Supplier.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\bin\Debug\ABX Database.exe.config
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\bin\Debug\ABX Database.exe
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\bin\Debug\ABX Database.pdb
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.csprojAssemblyReference.cache
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Customer.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Employee.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Form1.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.GRN_details.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Order_Details.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Product.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Properties.Resources.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Supplier.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.csproj.GenerateResource.cache
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.csproj.CoreCompileInputs.cache
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.exe
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX Database.pdb
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Login.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Admin.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.Login_Registration.resources
+D:\Sem 2 Notes\Database 2\ABX\ABX Database\ABX Database\obj\Debug\ABX_Database.ABX_Furniture.resources
